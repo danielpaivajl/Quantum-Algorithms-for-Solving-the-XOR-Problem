@@ -353,7 +353,9 @@ Possible extensions include:
 
 # 👨‍🔬 Authors
 
-**Daniel Paiva**
-**Gabriel Ferreira**
+**M.Sc. Daniel Paiva**
+
+
+**M.Sc. Gabriel Ferreira**
 
 2026
